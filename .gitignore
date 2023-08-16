@@ -1,0 +1,8 @@
+*.a
+*.o
+*.d
+main
+*.out
+/bin
+*~
+obj/*.[od]
